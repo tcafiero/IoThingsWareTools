@@ -76,15 +76,15 @@
                 },
                 {
                     "name": "openocd",
-                    "version": "0.9.0-arduino",
+                    "version": "0.10.0-dev-nrf5",
                     "systems": 
                     [
                         {
                             "host": "i686-mingw32",
-                            "url": "http://downloads.arduino.cc/tools/OpenOCD-0.9.0-arduino-i686-pc-cygwin.tar.bz2",
-                            "archiveFileName": "OpenOCD-0.9.0-arduino-i686-pc-cygwin.tar.bz2",
-                            "checksum": "SHA-256:5310bdd3730168a33b09b68558e908ca8b2fec25620c488f50a5fb35d0d1effd",
-                            "size": "2360705"
+                            "url": "https://github.com/tcafiero/IoThingsWareTools/raw/master/openocd-0.10.0-dev-nrf5.zip",
+                            "archiveFileName": "openocd-0.10.0-dev-nrf5.zip",
+                            "checksum": "SHA-256:4fd616f6c9242ac287af5fdcd6e0036edc6831e76899746a0203fca2ea771492",
+                            "size": "19833654"
                         }
                     ]
                 },
