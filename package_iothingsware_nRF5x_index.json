@@ -1,0 +1,30 @@
+{
+    "packages":
+    [
+        {
+            "name":"IoThingsWare",
+            "maintainer":"Toni Cafiero",
+            "websiteURL":"http://www.iothingsware.com",
+            "email":"info@iothingsware.com",
+            "help":{ "online":"http://iothingsware.com" },
+            "platforms": 
+            [
+                {
+                    "name": "TopView nRF52832 Boards (32-bits ARM Cortex-M4F)",
+                    "architecture": "nRF52832",
+                    "version": "0.0.2",
+                    "category": "TopView",
+                    "url": "https://github.com/tcafiero/IoThingsWareTools/raw/master/nRF52832-0.0.2.zip",
+                    "archiveFileName": "nRF52832-0.0.2.zip",
+                    "checksum": "SHA-68211f042313001eda50e03071a9fa574edb01db89ead3cb803034b0f90e21c5",
+                    "size": "2165134",
+                    "boards":
+                    [
+                        {"name": "nRF52DK"},
+                        {"name": "TopViewNRF52"}
+                    ]
+                }				
+            ]
+        }
+    ]
+}
