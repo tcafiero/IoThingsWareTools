@@ -16,7 +16,7 @@
                     "category": "IoThingsWare",
                     "url": "https://github.com/tcafiero/IoThingsWareTools/raw/master/nRF52832-0.0.2.zip",
                     "archiveFileName": "nRF52832-0.0.2.zip",
-                    "checksum": "SHA-256:68211f042313001eda50e03071a9fa574edb01db89ead3cb803034b0f90e21c5",
+                    "checksum": "SHA-256:d1a422ab5337a720b35d5b350f4def8c6328db7587ab639bbc1ddd846b7b7071",
                     "boards":
                     [
                         {"name": "nRF52DK"},
