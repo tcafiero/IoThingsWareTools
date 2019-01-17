@@ -12,15 +12,16 @@
                 {
                     "name": "TopView nRF52832 Boards (32-bits ARM Cortex-M4F)",
                     "architecture": "nRF52832",
-                    "version": "0.0.2",
+                    "version": "0.6.0",
                     "category": "IoThingsWare",
-                    "url": "https://github.com/tcafiero/IoThingsWareTools/raw/master/nRF52832-0.0.2.zip",
-                    "archiveFileName": "nRF52832-0.0.2.zip",
-                    "checksum": "SHA-256:8d65165a17f9c27b93f92578be8ef1c4261b281f704c863f95a047b0ac368d06",
+                    "url": "https://github.com/tcafiero/IoThingsWareTools/raw/master/nRF52832-0.6.0.zip",
+                    "archiveFileName": "nRF52832-0.6.0.zip",
+                    "checksum": "SHA-256:68a1482adef6531ee097e3402ade8e56774872c20a71c0dfecd44f1fcc7b7f73",
                     "boards":
                     [
-                        {"name": "nRF52DK"},
-                        {"name": "TopViewNRF52"}
+                        {"name": "Nordic Semiconductor nRF52 DK"},
+                        {"name": "TopView nRF52 Board"},
+                        {"name": "RedBear Blend 2"}
                     ],
                     "toolsDependencies":
                     [
