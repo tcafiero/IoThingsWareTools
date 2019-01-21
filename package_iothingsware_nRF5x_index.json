@@ -28,7 +28,7 @@
                         {
                             "packager": "IoThingsWare",
                             "name": "arm-none-eabi-gcc",
-                            "version": "4.8.3-2014q1"
+                            "version": "5_2-2015q4"
                         },
                         {
                             "packager": "IoThingsWare",
