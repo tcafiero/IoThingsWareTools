@@ -16,7 +16,7 @@
                     "category": "IoThingsWare",
                     "url": "https://github.com/tcafiero/IoThingsWareTools/raw/master/nRF52832-0.6.0.zip",
                     "archiveFileName": "nRF52832-0.6.0.zip",
-                    "checksum": "SHA-256:68a1482adef6531ee097e3402ade8e56774872c20a71c0dfecd44f1fcc7b7f73",
+                    "checksum": "SHA-256:d2d5a4c2a67cad9af2ff59e2ecfd9939d44d6e4f50ad49cda784b4b7fcacf1c5",
                     "boards":
                     [
                         {"name": "Nordic Semiconductor nRF52 DK"},
@@ -42,36 +42,36 @@
             [
                 {
                     "name": "arm-none-eabi-gcc",
-                    "version": "4.8.3-2014q1",
+                    "version": "5_2-2015q4",
                     "systems": 
                     [
                         {
-                            "host": "i686-mingw32",
-                            "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-windows.tar.gz",
-                            "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-windows.tar.gz",
-                            "checksum": "SHA-256:fd8c111c861144f932728e00abd3f7d1107e186eb9cd6083a54c7236ea78b7c2",
-                            "size": "84537449"
+							"host": "i686-mingw32",
+							"url": "https://github.com/sandeepmistry/arduino-nRF5/releases/download/tools/gcc-arm-none-eabi-5_2-2015q4-20151219-win32.tar.bz2",
+							"archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-win32.tar.bz2",
+							"size": "102981732",
+							"checksum": "MD5:32d950225b6c7c886f6225c1fc578934"
                         },
                         {
-                            "host": "x86_64-apple-darwin",
-                            "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
-                            "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
-                            "checksum": "SHA-256:3598acf21600f17a8e4a4e8e193dc422b894dc09384759b270b2ece5facb59c2",
-                            "size": "52518522"
+							"host": "i386-apple-darwin11",
+							"url": "https://github.com/sandeepmistry/arduino-nRF5/releases/download/tools/gcc-arm-none-eabi-5_2-2015q4-20151219-mac.tar.bz2",
+							"archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-mac.tar.bz2",
+							"size": "96372129",
+							"checksum": "MD5:603bcce8e59683ac27054b3197a53254"
                         },
                         {
-                            "host": "x86_64-pc-linux-gnu",
-                            "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-linux64.tar.gz",
-                            "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-linux64.tar.gz",
-                            "checksum": "SHA-256:d23f6626148396d6ec42a5b4d928955a703e0757829195fa71a939e5b86eecf6",
-                            "size": "51395093"
+							"host": "x86_64-pc-linux-gnu",
+							"url": "https://github.com/sandeepmistry/arduino-nRF5/releases/download/tools/gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
+							"archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
+							"size": "92811866",
+							"checksum": "MD5:f88caac80b4444a17344f57ccb760b90"
                         },
                         {
-                            "host": "i686-pc-linux-gnu",
-                            "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-linux32.tar.gz",
-                            "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-linux32.tar.gz",
-                            "checksum": "SHA-256:ba1994235f69c526c564f65343f22ddbc9822b2ea8c5ee07dd79d89f6ace2498",
-                            "size": "51029223"
+							"host": "i686-linux-gnu",
+							"url": "https://github.com/sandeepmistry/arduino-nRF5/releases/download/tools/gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
+							"archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
+							"size": "92811866",
+							"checksum": "MD5:f88caac80b4444a17344f57ccb760b90"
                         }
                     ]
                 },
