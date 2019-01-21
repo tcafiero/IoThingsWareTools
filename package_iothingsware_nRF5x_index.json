@@ -16,7 +16,7 @@
                     "category": "IoThingsWare",
                     "url": "https://github.com/tcafiero/IoThingsWareTools/raw/master/nRF52832-0.6.0.zip",
                     "archiveFileName": "nRF52832-0.6.0.zip",
-                    "checksum": "SHA-256:d2d5a4c2a67cad9af2ff59e2ecfd9939d44d6e4f50ad49cda784b4b7fcacf1c5",
+                    "checksum": "SHA-256:88ae068b100570dd71aefd1cb281c273427b873529ffed748bf14099242f1fc0",
                     "boards":
                     [
                         {"name": "Nordic Semiconductor nRF52 DK"},
