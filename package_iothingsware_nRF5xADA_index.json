@@ -112,7 +112,7 @@
 					  "archiveFileName": "nrfjprog-9.4.0-win32.tar.bz2",
 					  "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/nrfjprog-9.4.0-win32.tar.bz2"
 					}
-				  ],
+				  ]
 				},
                 {
                     "name": "openocd",
