@@ -14,7 +14,7 @@
                     "architecture": "nRF52832",
                     "version": "0.9.0",
                     "category": "IoThingsWare",
-                    "url": "https://tools.iothingsware.com/nRF52832Ada-0.1.0.zip",
+                    "url": "https://s3.eu-central-1.amazonaws.com/tools.iothingsware.com/nRF52832Ada-0.1.0.zip",
                     "archiveFileName": "nRF52832Ada-0.1.0.zip",
                     "checksum": "SHA-256:e1023275d273a5c6af42d53acee972e57025c9ba4ef7f45d8d5c6f4a340d1067",
                     "boards":
