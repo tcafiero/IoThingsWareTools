@@ -82,7 +82,7 @@
                 },
 				{
 					"name": "nrfjprog",
-					"version": "9.4.0"
+					"version": "9.4.0",
 					"systems": [
 					{
 					  "host": "i386-apple-darwin11",
