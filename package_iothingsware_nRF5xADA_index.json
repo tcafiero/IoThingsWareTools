@@ -16,7 +16,7 @@
                     "category": "IoThingsWare",
                     "url": "https://s3.eu-central-1.amazonaws.com/tools.iothingsware.com/nRF52832Ada-0.1.0.zip",
                     "archiveFileName": "nRF52832Ada-0.1.0.zip",
-                    "checksum": "SHA-256:e1023275d273a5c6af42d53acee972e57025c9ba4ef7f45d8d5c6f4a340d1067",
+                    "checksum": "SHA-7bf8dd89b4af3faec2a61d7bb46b0b34c8c609c7d91fae1219f524664850d076",
                     "boards":
                     [
                         {"name": "TopView nRF52 Board and Nordic Semiconductor nRF52 DK"},
@@ -32,7 +32,7 @@
                         },
 						{
 							"name": "nrfjprog",
-							"packager": "adafruit",
+							"packager": "IoThingsWare",
 							"version": "9.4.0"
 						},
                         {
